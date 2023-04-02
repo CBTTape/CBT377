@@ -1,0 +1,11 @@
+2023-04-02 23:52:09.079698 - Initialized conversion of CBT377
+2023-04-02 23:52:09.142960 - Received CBT.V504.FILE377.PDS from FILE377.XMI 
+2023-04-02 23:52:09.146008 - Found $$$$DATE.txt (text/plain) in CBT.V504.FILE377.PDS, moved to PDS/$$$$DATE
+2023-04-02 23:52:09.147524 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE377.PDS, moved to PDS/$$$#DATE
+2023-04-02 23:52:09.147539 - Found $TSOMODS.bin containing application/octet-stream, moved to PDS/$TSOMODS
+2023-04-02 23:52:09.149838 - Found @FILE377.txt (text/plain) in CBT.V504.FILE377.PDS, moved to PDS/@FILE377
+2023-04-02 23:52:09.151201 - Found IKJEFLD1.txt (text/plain) in CBT.V504.FILE377.PDS, moved to PDS/IKJEFLD1
+2023-04-02 23:52:09.152441 - Found IKJEFLD2.txt (text/plain) in CBT.V504.FILE377.PDS, moved to PDS/IKJEFLD2
+2023-04-02 23:52:09.153538 - Found PHXTSO1.txt (text/plain) in CBT.V504.FILE377.PDS, moved to PDS/PHXTSO1
+2023-04-02 23:52:09.154599 - Found TL.rexx (text/plain) in CBT.V504.FILE377.PDS, moved to PDS/TL
+2023-04-02 23:52:09.155572 - Found TL$$.txt (text/plain) in CBT.V504.FILE377.PDS, moved to PDS/TL$$
