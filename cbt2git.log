@@ -1,10 +1,10 @@
-2025-04-13 19:09:01.789095 - Received CBT.V508.FILE377.PDS from FILE377.XMI 
-2025-04-13 19:09:01.789980 - Found $$$$DATE.txt (text/plain) in CBT.V508.FILE377.PDS, moved to PDS/$$$$DATE
-2025-04-13 19:09:01.790067 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE377.PDS, moved to PDS/$$$#DATE
-2025-04-13 19:09:01.790162 - Found $TSOMODS.bin (application/octet-stream) in CBT.V508.FILE377.PDS, moved to PDS/$TSOMODS
-2025-04-13 19:09:01.790236 - Found @FILE377.txt (text/plain) in CBT.V508.FILE377.PDS, moved to PDS/@FILE377
-2025-04-13 19:09:01.790369 - Found IKJEFLD1.txt (text/plain) in CBT.V508.FILE377.PDS, moved to PDS/IKJEFLD1
-2025-04-13 19:09:01.790450 - Found IKJEFLD2.txt (text/plain) in CBT.V508.FILE377.PDS, moved to PDS/IKJEFLD2
-2025-04-13 19:09:01.790514 - Found PHXTSO1.txt (text/plain) in CBT.V508.FILE377.PDS, moved to PDS/PHXTSO1
-2025-04-13 19:09:01.790582 - Found TL.rexx (text/plain) in CBT.V508.FILE377.PDS, moved to PDS/TL
-2025-04-13 19:09:01.790644 - Found TL$$.txt (text/plain) in CBT.V508.FILE377.PDS, moved to PDS/TL$$
+2025-04-15 01:56:23.898185 - Received CBT.V508.FILE377.PDS from FILE377.XMI 
+2025-04-15 01:56:23.899292 - Found $$$$DATE.txt (text/plain) in CBT.V508.FILE377.PDS, moved to PDS/$$$$DATE
+2025-04-15 01:56:23.899807 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE377.PDS, moved to PDS/$$$#DATE
+2025-04-15 01:56:23.900172 - Found $TSOMODS.bin (application/octet-stream) in CBT.V508.FILE377.PDS, moved to PDS/$TSOMODS
+2025-04-15 01:56:23.900483 - Found @FILE377.txt (text/plain) in CBT.V508.FILE377.PDS, moved to PDS/@FILE377
+2025-04-15 01:56:23.900877 - Found IKJEFLD1.txt (text/plain) in CBT.V508.FILE377.PDS, moved to PDS/IKJEFLD1
+2025-04-15 01:56:23.901057 - Found IKJEFLD2.txt (text/plain) in CBT.V508.FILE377.PDS, moved to PDS/IKJEFLD2
+2025-04-15 01:56:23.901242 - Found PHXTSO1.txt (text/plain) in CBT.V508.FILE377.PDS, moved to PDS/PHXTSO1
+2025-04-15 01:56:23.901493 - Found TL.rexx (text/plain) in CBT.V508.FILE377.PDS, moved to PDS/TL
+2025-04-15 01:56:23.901677 - Found TL$$.txt (text/plain) in CBT.V508.FILE377.PDS, moved to PDS/TL$$
